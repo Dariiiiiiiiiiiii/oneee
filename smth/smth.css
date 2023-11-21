@@ -1,0 +1,145 @@
+.tv-1,
+.tv-1 * {
+  box-sizing: border-box;
+}
+.tv-1 {
+  background: #ffffff;
+  width: 1280px;
+  height: 720px;
+  position: relative;
+  overflow: hidden;
+}
+.menu {
+  width: 583.36px;
+  height: 583.36px;
+  position: absolute;
+  left: -193px;
+  top: -191px;
+}
+.polygon-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  /* transform: translate(126px, -122.49px); */
+  overflow: visible;
+}
+.polygon-1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  /* transform: translate(62px, -62.42px); */
+  overflow: visible;
+}
+.polygon {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  /* transform: translate(193px, -180.23px); */
+  overflow: visible;
+}
+.p3 {
+  transform: scale(0.73);
+    transform-origin: top left;
+}
+.p2 {
+  transform: scale(0.85);
+  transform-origin: top left;
+}
+.p1 {
+  transform: scale(1);
+  transform-origin: top left;
+}
+.fingerprint {
+  position: absolute;
+  left: 165px;
+  top: 164px;
+  overflow: visible;
+}
+.portfolio {
+  color: #000000;
+  text-align: left;
+  font: 700 36px "Inter", sans-serif;
+  position: absolute;
+  left: 204px;
+  top: 303.48px;
+  transform-origin: 0 0;
+  transform: rotate(-45deg) scale(1, 1);
+}
+.contacts {
+  color: #000000;
+  text-align: left;
+  font: 700 36px "Inter", sans-serif;
+  position: absolute;
+  left: 249px;
+  top: 352.31px;
+  transform-origin: 0 0;
+  transform: rotate(-45deg) scale(1, 1);
+}
+.page-name {
+  width: 139px;
+  height: 174px;
+  position: absolute;
+  left: -71px;
+  top: 526px;
+}
+.rectangle-3 {
+  background: #cccccc;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  width: 139px;
+  height: 174px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.main {
+  color: #000000;
+  text-align: left;
+  font: 700 60px "Inter", sans-serif;
+  position: absolute;
+  left: 66px;
+  top: 162px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.chichaimg {
+  width: 426px;
+  height: 220px;
+  position: absolute;
+  left: 745px;
+  top: 80px;
+  box-shadow: -10px 10px 4px 0px rgba(0, 0, 0, 0.25);
+}
+ .chichatext {
+  color: #000000;
+  text-align: left;
+  font: 700 36px "Inter", sans-serif;
+  position: absolute;
+  left: 690px;
+  top: 328px;
+  width: 481px;
+  height: 247px;
+} 
+.paimonimg {
+  width: 359px;
+  height: 216px;
+  position: absolute;
+  left: 296px;
+  top: 287px;
+  box-shadow: -10px 10px 4px 0px rgba(0, 0, 0, 0.25);
+}
+ .paimontext {
+  color: #000000;
+  text-align: left;
+  font: 700 36px "Inter", sans-serif;
+  position: absolute;
+  left: 277px;
+  top: 536px;
+  width: 403px;
+  height: 164px;
+} 
+body {
+  margin: 0px;
+}

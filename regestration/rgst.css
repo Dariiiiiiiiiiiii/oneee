@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+h1 {
+    display: inline;
+    cursor: pointer;
+    margin-right: 30px;
+}
+.rgst {
+    display: none;
+}
+.selected {
+    text-decoration: underline;
+}

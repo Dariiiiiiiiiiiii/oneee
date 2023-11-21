@@ -1,0 +1,15 @@
+html,
+body,
+#playWindow {
+  height: 100%;
+  margin: 0;
+}
+#playWindow {
+  width: 608px;
+  background-color: #000;
+  color: hsl(0, 0%, 100%);
+  height: 608px;
+}
+header {
+  height: 5%;
+}
