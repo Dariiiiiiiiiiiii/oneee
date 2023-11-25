@@ -1,0 +1,35 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="burger.css" media="screen" rel="stylesheet" type="text/css" /> 
+</head>
+<body>
+  <section class="top-nav">
+    <div>
+      Logo Here
+    </div>
+    <input id="menu-toggle" type="checkbox" />
+    <label class='menu-button-container' for="menu-toggle">
+    <div class='menu-button'></div>
+  </label>
+    <ul class="menu">
+      <li class="scroll" href="#block1">block 1</li>
+      <li class="scroll" href="#block2">block 2</li>
+      <li class="scroll" href="#block3">block 3</li>
+      <li class="scroll" href="#block4">block 4</li>
+    </ul>
+  </section>
+
+<h2>Resize window to collapse menu</h2>
+
+<div class="container">
+    <div id="block1" class="block"><h1>BLOCK 1</h1></div>
+    <div id="block2" class="block"><h1>BLOCK 2</h1></div>
+    <div id="block3" class="block"><h1>BLOCK 3</h1></div>
+    <div id="block4" class="block"><h1>BLOCK 4</h1></div>
+  </div>
+  <script src="burger.js"></script>
+</body>
+</html>
